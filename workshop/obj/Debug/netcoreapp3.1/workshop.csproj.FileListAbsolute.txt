@@ -1,0 +1,14 @@
+D:\visuals\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.exe
+D:\visuals\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.deps.json
+D:\visuals\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.json
+D:\visuals\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.dev.json
+D:\visuals\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.dll
+D:\visuals\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.pdb
+D:\visuals\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.AssemblyReference.cache
+D:\visuals\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfoInputs.cache
+D:\visuals\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfo.cs
+D:\visuals\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CoreCompileInputs.cache
+D:\visuals\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.dll
+D:\visuals\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.pdb
+D:\visuals\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.genruntimeconfig.cache
